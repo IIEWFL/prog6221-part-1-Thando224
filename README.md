@@ -28,3 +28,7 @@ This is a command-line application written in C# that allows users to enter reci
 9. Reset the quantities of all ingredients to their original values
 10. Clear all data to enter a new recipe.
 11. Follow the on-screen prompts to enter your selection and view the results.
+##### Link to the GitHub Repo
+https://github.com/IIEWFL/prog6221-part-1-Thando224 
+
+
